@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_workouts"
+            android:icon="@drawable/ic_weightlifting_310218"
+            android:title="@string/workouts" />
+        <item
+            android:id="@+id/nav_diets"
+            android:icon="@drawable/ic_orange_2022436"
+            android:title="@string/diets" />
+        <item
+            android:id="@+id/nav_exercises"
+            android:icon="@drawable/ic_weight_lifting_1297690"
+            android:title="@string/exercises" />
+    </group>
+
+</menu>

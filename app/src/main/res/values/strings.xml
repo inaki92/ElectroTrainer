@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Personal ElectroTrainer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">EVERYDAY IS A GOOD DAY TO WORKOUT</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="workouts">WORKOUTS</string>
+    <string name="diets">DIETS</string>
+    <string name="exercises">EXERCISES</string>
+    <string name="api_key">3c89a48079cf871cd0afa83d368eef78fca86219</string>
+    <string name="beast_mode">BEAST MODE</string>
+    <string name="rule21">USE THE RULE 21/90: It takes 21 days to create a habit. It takes 90 days to create a lifestyle.</string>
+    <string name="future">The best way to predict the future is to create it.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
